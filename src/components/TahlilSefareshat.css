@@ -1,0 +1,88 @@
+.formTahlil{
+    padding: 20px;
+    background-color: #d6ead4;
+    border-bottom: 1px solid #AD8B73;
+    height: 19%;
+    margin-right: -14px;
+    
+    top: 0%;
+    left: 0;
+    right: 0;
+}
+.rowTahlil{
+
+    padding: 2px;
+    width: 900px;
+    
+}
+.btnMoshahede{
+    background-color: #6D8B74;
+    border-radius: 10px;
+    margin-top: 39px;
+    width: 110px;
+
+}
+.btn-taqyirat{
+
+    background-color: #6D8B74;
+    border-radius: 10px;
+    margin: -74px 500px 0px 0;
+    width: 110px;
+
+}
+.btnMoshahede :hover{
+    background-color: #6d8b749b !important;
+    border-radius: 10px;
+    margin-top: 39px;
+    width: 110px;
+
+}
+.btn-taqyirat :hover{
+
+    background-color: #6d8b744a;
+    border-radius: 10px;
+    margin: 10px 400px 20px 0;
+    width: 110px;
+
+}
+.main-taqyirat{
+    display: inline;
+    width: 30px;
+}
+.table{
+    width: 500px;
+    margin-left: 500px;
+} 
+ .radif{
+
+    background-color: #D9DDC1 !important;
+
+} 
+.style2{
+  background-color: #A8AB74 !important;
+  width: 400px !important;
+}
+.style3{
+    background-color: #EBECE2 !important;
+}
+.style4{
+    background-color: #6CA589 !important;
+}
+.style5{
+    background-color: #B3B3BD !important;
+}
+.style6{
+    background-color: #e3f1e2 !important;
+    
+}
+.style7{
+    background-color: #666846 !important;
+    
+    
+    
+}
+.style8{
+    background-color: #666846 !important;
+
+    
+}
